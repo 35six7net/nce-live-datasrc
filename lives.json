@@ -194,5 +194,11 @@
       "#title": "RTHKcityforum",
       "active": false
     }
+        {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/2136822073313759/videos/2303235113093482/",
+      "#title": "RTHK",
+      "active": false
+    }
   ]
 }
